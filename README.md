@@ -1,2 +1,1 @@
-# vaalProjectVillanova
- 
+# camera_kit_demo
